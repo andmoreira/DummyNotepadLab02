@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">DummyNotepadLab02</string>
+    <string name="my_notes_title">My Notes</string>
+    <string name="list_notes_btn_new_note">List Notes</string>
+    <string name="list_notes">List Notes</string>
+    <string name="read_note">Read Note</string>
+    <string name="new_note">New Note</string>
+    <string name="insert_note_hint_insert_title">Insert Title</string>
+    <string name="new_note_hint_insert_note">Insert Note</string>
+    <string name="new_note_btn_ok">Ok</string>
+    <string name="new_note_btn_cancel">Cancel</string>
+</resources>
